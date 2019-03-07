@@ -1,0 +1,152 @@
+.table
+{
+	margin: 7px 0px 0px !important;
+}
+.cdk-overlay-pane
+{
+	overflow-y: scroll !important;
+}
+.mat-dialog-container
+{
+	padding: 0px !important;
+}
+.nb-theme-default nb-card
+{
+	margin-bottom: 0.0rem !important;
+}
+.action-items
+{
+	font-size: large;
+}
+.serach-cross
+{
+	float: right;
+    margin-top: -24px;
+    margin-right: 11px;
+}
+#right-id-style
+{
+	float: right;
+}
+.notification-create-button
+{
+	height: 35px;
+    text-align: center;
+    padding: 8px;
+}
+.f-lft{
+    float:left;
+}
+.f-right{
+    float:right;
+}
+.form-width >div >div {
+width:100%;
+margin:0 auto;
+}
+.form-width >div >div> div {
+margin-top: 20px;
+}
+.form-width >div >div> div .col-sm-4{
+    max-width: 25%;
+}
+.form-width a, .a-link{
+    color: #638adb !important;
+    text-decoration: underline !important;
+    font-size: medium;
+    margin: 5px 12px 20px 20px
+}
+.a-link:hover{
+    color: #638adb !important;
+    text-decoration: underline !important;
+}
+.remove-link> div span{
+    color: #638adb !important;
+    text-decoration: underline !important;
+    
+}
+.removelink
+{
+	font-size: medium;
+    float: right;
+}
+.removelink-edit
+{
+	font-size: medium;
+	color: #638adb !important;
+    text-decoration: underline !important;
+    
+}
+.remove-link> div span:hover{
+    color: #638adb !important;
+    text-decoration: underline !important;
+}
+.Addbutton-left-margin-class
+{
+	margin-left: -25px;
+	margin-bottom: 10px;
+
+}
+.search-box-right-margin
+{
+	margin-right: -25px;
+}
+.full-width
+{
+	width: 100%
+}
+.nb-theme-default .alert-success
+{
+    background-color: green !important;
+    color:white !important;
+}
+.sequnce-waitdays-row
+{
+    margin-top: 10px;
+    padding: 10px 40px;
+}
+.edit-workflow-template-block
+{
+    border: 2px #dadfe6 solid;
+    padding: 15px;
+    margin-bottom: 5px
+}
+.edit-remove-icon
+{
+        font-size: x-large;
+    margin: 2px 3px 7px 5px;
+}
+.edit-template-option
+{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* divya */
+.wdth-97{
+    width:97%;
+}
+.btm-brdr{
+    border-bottom: 1px solid #ebeef2;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+.btm-brdr > p{
+    color: #2a2a2a;
+    font-family: Exo;
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+.mrgn-btm-5{
+    margin-bottom:5px;
+}
+.mrgn-btm-10{
+    margin-bottom: 10px;
+}
+.mrgn-top-10{
+    margin-top: 10px;
+}
+.accordian-style > div > nb-accordion > nb-accordion-item{
+    margin-bottom: 15px;
+}
